@@ -260,11 +260,7 @@
      font-size: x-large;
  }
 
- .section-right-col {
-     width: 100%;
-     max-width: 1190px;
-     height: auto;
- }
+ 
 
 
  .section-p-btn {
@@ -277,6 +273,7 @@
 
  .section-col {
     display: flex;
+    flex-wrap: wrap;
     color: #F3F4F6;
     padding: 3rem;
     justify-content: center;
