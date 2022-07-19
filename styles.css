@@ -167,33 +167,33 @@
     margin: inherit;
 
 }
-.tooltip {
+ /* .tooltip {
     box-shadow: #efe4e4 0px 0px 5px 0px;
     width: 166px;
     border: 0px;
     height: 50px;
-    cursor: pointer;
+    cursor: pointer; */
 
-}
+/* }
 
-.tooltip .tooltiptext {
+ .tooltip .tooltiptext {
     visibility: hidden;
 
     font-size: 14px;
     color: #F3F4F6;
     text-align: center;
 
-    /* position the tooltip*/
+    position the tooltip
     position: relative;
     z-index: 1;
     bottom: 70px;
     margin-left: -15px;
     transition-delay: 0.2s;
-}
+}  */
 
-.tooltip:hover .tooltiptext {
+/* .tooltip:hover .tooltiptext {
     visibility: visible;
-}
+}  */
 
 
 
