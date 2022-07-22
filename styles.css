@@ -132,7 +132,7 @@
 
   .image .Im-img {
      /* width: 100%; */
-     /* max-width: 500px; */
+     max-width: 500px;
      display: block;
      margin: auto;
      padding-top: 3rem;
