@@ -131,8 +131,8 @@
   
 
   .image .Im-img {
-     width: 100%;
-     max-width: 500px;
+     /* width: 100%; */
+     /* max-width: 500px; */
      display: block;
      margin: auto;
      padding-top: 2rem;
@@ -230,7 +230,7 @@
     text-align: center;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     flex-direction: row-reverse
  }
