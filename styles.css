@@ -135,7 +135,7 @@
      /* max-width: 500px; */
      display: block;
      margin: auto;
-     padding-top: 2rem;
+     padding-top: 3rem;
 
  }
  .header{
@@ -213,7 +213,7 @@
  }
  .Im-head{
     text-align: center;
-    padding: 1rem;
+    padding: 2rem;
     margin: 10px;
     color: black;
     height: 100px;
